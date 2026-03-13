@@ -1,5 +1,5 @@
 //Fonctions réalisées par l'étudiant 1 :
-
+int estMajeur (int )
 
 
 
